@@ -28,11 +28,12 @@ Argo CD
 ↓
 
 Kubernetes
-
+```
 ---
 
 ## Promotion Flow
 
+```
 Development
 
 ↓
